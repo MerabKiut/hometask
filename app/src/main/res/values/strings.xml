@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">task211</string>
+    <string name="money_input">Ввод денег</string>
+    <string name="payment_info">Информация об оплате</string>
+    <string name="credit_card">С банковской карты</string>
+    <string name="phone">С мобильного телефона</string>
+    <string name="cash">Наличными по адресу</string>
+</resources>
